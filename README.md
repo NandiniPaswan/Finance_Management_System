@@ -16,10 +16,10 @@ A web-based application to track income, expenses,bills and generate reports.
 - Backend: Python (Flask)
 - Database: SQLite
 
-##How to Run the Project
+## How to Run the Project
 1. Install Python
 2. Install required libraries:
-   -pip install flask
+   - pip install flask
 3. Run the backend:
-   -python api.py
+   - python api.py
 4. Open index.html in your browser
