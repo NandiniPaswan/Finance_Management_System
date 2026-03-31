@@ -12,14 +12,14 @@ A web-based application to track income, expenses,bills and generate reports.
 - User-friendly dashboard
 
 ## Technologies
--Frontend: HTML,CSS,Javascript
--Backend: Python (Flask)
--Database: SQLite
+- Frontend: HTML,CSS,Javascript
+- Backend: Python (Flask)
+- Database: SQLite
 
 ##How to Run the Project
--Install Python
--Install required libraries:
+1. Install Python
+2. Install required libraries:
    -pip install flask
--Run the backend:
+3. Run the backend:
    -python api.py
--Open index.html in your browser
+4. Open index.html in your browser
